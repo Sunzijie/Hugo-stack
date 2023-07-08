@@ -8,7 +8,7 @@ categories:
     - 王亮
     - 网页设计
 ---
-
+{{< quote >}}
 ```java
 
 <!doctype html>
@@ -350,5 +350,7 @@ categories:
 </html>
 
 ```
+{{< /quote >}}
+
 # 效果图
 ![效果图](1.png)
