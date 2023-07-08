@@ -21,6 +21,11 @@ menu:
 - 温和坚定的自由主义者
 - 骄傲谦逊的理性主义者
 <br>
+{{< quote >}}
+本是后山人，偶做前堂客，醉舞经阁半卷书，坐井观天阔，大志戏功名，海斗量福祸，论到囊中羞涩时，校指乾坤错。
+{{< /quote >}}
+
+<br>
 <img src="https://moe-counter.glitch.me/get/@sunzijie?theme=moeboorumoebooru">
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=sunzijie&show_icons=true&theme=tokyonight" width="50%" align="center" />
