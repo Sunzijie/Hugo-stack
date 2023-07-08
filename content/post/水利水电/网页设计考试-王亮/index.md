@@ -9,7 +9,8 @@ categories:
     - 网页设计
 ---
 
-```python
+```java
+
 <!doctype html>
 <html>
 
@@ -347,6 +348,7 @@ categories:
 </body>
 
 </html>
+
 ```
 # 效果图
 ![效果图](1.png)
