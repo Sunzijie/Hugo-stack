@@ -3,7 +3,7 @@ title: 安徽专升本
 description: 
 date: 2023-07-10	
 slug:
-image:
+image:0.png
 categories:
     - 专升本
 ---
