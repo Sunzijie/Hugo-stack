@@ -3,10 +3,21 @@ title: 安徽专升本
 description: 
 date: 2023-07-10	
 slug:
-image:0.png
+image: 0.png
 categories:
     - 专升本
 ---
+# 考纲解析
+1. 汉语基本知识及运用
+
+2. 古今中外的需要作家
+
+3. 文体知识及运用
+
+4. 写作
+
+
+
 
 [作息表](作息表.jpg)
 [必背15篇](https://sunzijie.cn/2023/%E5%BF%85%E8%83%8C15%E7%AF%87/)
