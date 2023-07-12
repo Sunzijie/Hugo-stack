@@ -9,3 +9,5 @@ categories:
     - 语文
 ---
 [必背15篇](https://sunzijie.cn/2023/%E5%BF%85%E8%83%8C15%E7%AF%87/)
+[作业](https://sunzijie.cn/2023/%E4%BD%9C%E4%B8%9A/)
+[学习日志](baidu.com)
