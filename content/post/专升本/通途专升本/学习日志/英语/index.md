@@ -126,4 +126,49 @@ convince      使相信；舒服
 
 
 
-  
+# Day3
+> *2023.7.13*
+{{< quote>}}
+alter    修改；变动
+
+convert    使改变
+
+transform    使变形；使改观
+
+shift        强调位置、地点、方向上的变化
+
+
+announce      宣布；发布
+
+declare       宣布；宣告
+
+proclaim      公布；声明
+
+claim      声张；主张
+
+anticipate      预料；期望
+
+expect      预料；指望
+
+hope    希望；期望
+
+await      期待；等候
+
+appeal  吸引；迷住
+
+attract    吸引；引起……某人注意
+
+fascinate    使……着迷
+
+tempt      吸引；吸引……的兴趣
+
+appreciate      欣赏；赏识
+
+enjoy  欣赏
+
+relish    欣赏；享有
+
+cherish    珍视；珍爱
+
+
+{{< / quote >}}
