@@ -8,7 +8,7 @@ categories:
     - 专升本
     - 语文学习日志
 ---
-<p align="center">季氏将伐颛臾</p >
+<p align="center">孔子生平</p >
 
 - 断代体:只描写一朝一代
 
