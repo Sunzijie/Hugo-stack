@@ -22,5 +22,6 @@ categories:
 [作业](https://sunzijie.cn/2023/%E4%BD%9C%E4%B8%9A/)
 [学习日志](baidu.com)
 
-1. 应(yīng)届毕业生
+## [中国古代史](https://sunzijie.cn/2023/day1-%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%8F%B2/)
+
 
