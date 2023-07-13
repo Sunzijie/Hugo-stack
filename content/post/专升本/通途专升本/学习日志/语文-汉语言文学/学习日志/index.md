@@ -1,8 +1,13 @@
 ---
 title: 语文学习日志
-date: 2023-7-11
+description: 
+date: 2023-07-10	
+slug:
+image: 
+categories:
+    - 专升本
+    - 学习日志
 ---
-
 # Day1
 # 前言
 **考纲解析**
