@@ -1,5 +1,5 @@
 ---
-title: 英语Day1    代词＆单词
+title: 英语Day1 代词＆单词
 description: 
 date: 2023-07-14
 slug:
