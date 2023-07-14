@@ -3,7 +3,7 @@ title: Day1 中国古代史
 description: 汉语言文学
 date: 2023-07-10
 slug:
-image: 
+image: 0.png
 categories:
     - 专升本
     - 语文学习日志
