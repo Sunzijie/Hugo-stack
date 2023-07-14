@@ -1,5 +1,5 @@
 ---
-title: Day1 中国古代史
+title: 语文Day1 中国古代史
 description: 汉语言文学
 date: 2023-07-10
 slug:

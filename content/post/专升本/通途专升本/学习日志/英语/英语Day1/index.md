@@ -6,7 +6,7 @@ slug:
 image: 
 categories:
     - 专升本
-    - 语文学习日志
+    - 英语学习日志
 --- 
 
 

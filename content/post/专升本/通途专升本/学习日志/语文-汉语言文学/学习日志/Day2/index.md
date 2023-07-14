@@ -1,5 +1,5 @@
 ---
-title: Day2 季氏将伐颛臾＆蒹葭
+title: 语文Day2 季氏将伐颛臾＆蒹葭
 description: 汉语言文学
 date: 2023-07-11
 slug:
