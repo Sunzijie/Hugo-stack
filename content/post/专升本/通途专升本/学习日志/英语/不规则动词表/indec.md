@@ -192,7 +192,7 @@ A-A-A型:
 | speak     | spoke    | spoken     | build    | built    | built      |
 | steal     | stole    | stolen     | creep    | crept    | crept      |
 | take      | took     | taken      | deal     | dealt    | dealt      |
-| wake      | woke     | woken      | dream    | dreamed/dreamt | dreamed/dreamt |
+| wake      | woke     | woken      | dream    | dreamed | dreamt |
 | write     | wrote    | written    | feel     | felt     | felt       |
 | bleed     | bled     | bled       | keep     | kept     | kept       |
 | breed     | bred     | bred       | leave    | left     | left       |
