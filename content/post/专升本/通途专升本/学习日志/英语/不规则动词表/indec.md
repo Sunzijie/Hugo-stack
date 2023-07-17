@@ -3,16 +3,16 @@ title: 不规则动词表
 description: 
 date: 2023-07-17
 slug: 
-image: 1.jpg
+image: 
 categories:
     - 英语
     - 不规则动词表
 ---
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=185697&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=185924&auto=1&height=66"></iframe>
 {{< quote >}}
 八月将至，顺遂安康
 {{< /quote >}}
-
+![](1.jpg)
 ## 规则
 ### 一般情况
 
