@@ -3,7 +3,7 @@ title: 不规则动词表
 description: 
 date: 2023-07-17
 slug: 
-image: 
+image: 1.jpg
 categories:
     - 英语
     - 不规则动词表
