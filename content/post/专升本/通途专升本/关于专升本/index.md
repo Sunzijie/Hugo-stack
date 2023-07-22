@@ -19,3 +19,5 @@ tags:
 ![](2.jpg)
 ![](3.jpg)
 ![](4.jpg)
+
+<script> var body = document.body; function changecolor(color){ body.style.backgroundColor=color; } </script> <style> @font-face { font-family: CyberFont; src: url('No.023-Sounso-Undividedad-2.ttf'); } .cyberpunk-theme{ background-color: #fcee0a; height: 50px; width: 300px; border-radius: 25px; border: 2px solid #0efe2b; margin: auto; text-align: center; font-family: CyberFont; font-size: 15px; } .cyberpunk-theme:hover { background-color: #0efe2b; color: white; border: 2px solid #fcee0a; } </style>
