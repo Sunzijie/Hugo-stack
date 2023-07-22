@@ -1,13 +1,17 @@
 ---
-title: 短视频作业
-description: lcx
-date: 2023-05-26
-slug: lcx
-image: helena-hertz-wWZzXlDpMog-unsplash.jpg
+title: 水院印迹
+description: 
+date: 2023-05-20
+slug: 
+image: 
 categories:
-    - Test
-    - 测试
+    - 水院
 ---
+
+
+
+
+
 ## 短代码测试
 ![](2-2.jpg)
 
