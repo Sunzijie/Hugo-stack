@@ -3,7 +3,7 @@ title: 语文背诵篇目
 description: 
 date: 2023-07-11	
 slug:
-image:
+image: 1.jpg
 categories:
     - 专升本
     - 语文
