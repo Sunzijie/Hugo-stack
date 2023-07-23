@@ -1,7 +1,7 @@
 baseurl: https://sunzijie.cn
 languageCode: en-us
 theme: stack
-paginate: 7
+paginate: 20
 title: 梓分のblog
 
 # Change it to your Disqus shortname before using
