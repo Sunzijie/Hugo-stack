@@ -12,7 +12,9 @@ categories:
 纵然生得好皮囊，腹内原来草莽。-红楼梦·三回
 {{< /quote >}}
 <p align="center">hello-world</p >
-![](1.gif)
+
+
+![hello_world](1.gif)
 
 ![中国历朝历代更替示意图](1.jpg)
 
