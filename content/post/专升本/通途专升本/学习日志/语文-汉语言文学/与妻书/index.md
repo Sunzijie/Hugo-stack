@@ -1,7 +1,7 @@
 ---
 title: 林觉民《与妻书》张霜
 description: 
-date:2023-07-28
+date: 2023-07-28
 slug: 
 image: 
 categories:
