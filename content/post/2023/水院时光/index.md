@@ -1,5 +1,5 @@
 ---
-title: 水院印迹2
+title: 水院印迹
 description: 谨以此篇纪念我的大学时光
 date: 2023-06-07
 slug: 
